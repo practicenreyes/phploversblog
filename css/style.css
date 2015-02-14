@@ -1,0 +1,32 @@
+.navbar {
+	margin-bottom: 0;
+}
+
+.questions {
+	margin-top: 20px;
+}
+
+footer {
+	background-color: #eee;
+	text-align: center;
+	height: 70px;
+	padding-top: 10px;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 60px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 60px;
+}
